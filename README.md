@@ -1,6 +1,12 @@
 PC ASSEMBLE (3/12/2023)
 ========================================
 
+Pictures
+------------
+![Image 1](https://github.com/abbenishaann/PC-ASSEMBLE/assets/148422005/4196a822-c3f3-4afd-8270-7723c7112171) | ![Image 2](https://github.com/abbenishaann/PC-ASSEMBLE/assets/148422005/92296a40-f230-4ef0-9f1e-bb0c29ab53b0)
+--- | ---
+![Image 3](https://github.com/abbenishaann/PC-ASSEMBLE/assets/148422005/d04d7706-add1-4e54-a8e5-e6583a72eb9e) | ![Image 4](https://github.com/abbenishaann/PC-ASSEMBLE/assets/148422005/a6b2277d-2d53-4bd8-9963-aa156f4e6ca1)
+
 Reflection
 ------------
 
@@ -19,3 +25,4 @@ Suggestion
 
 2.**Post-Assembly Discussions:**
    Schedule post-assembly discussions to review the entire process, address questions, and share additional insights. This forum allows participants to consolidate their learning and provides an opportunity for further clarification.
+
