@@ -20,9 +20,9 @@ Reflection
 
 Suggestion
 ------------
-1.**Documentation:**
+1.  **Documentation:**
  Providing comprehensive documentation with step-by-step instructions, troubleshooting tips, and a list of common issues would be beneficial. Clear documentation can serve as a reference for participants during the assembly and for future learning.
 
-2.**Post-Assembly Discussions:**
+2.  **Post-Assembly Discussions:**
    Schedule post-assembly discussions to review the entire process, address questions, and share additional insights. This forum allows participants to consolidate their learning and provides an opportunity for further clarification.
 
